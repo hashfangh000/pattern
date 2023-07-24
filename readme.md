@@ -1,4 +1,5 @@
-## 设计模式
+## 设计模式——[链接](https://refactoringguru.cn/design-patterns)
+
 
 ### 桥接(bridge)模式
 - 开发跨平台的视频播放器，可以在不同操作系统(Mac, Windows, Linux)播放不同编码(avi, mp4...)的视频文件;
