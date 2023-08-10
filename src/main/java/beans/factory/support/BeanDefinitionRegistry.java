@@ -1,6 +1,7 @@
 package beans.factory.support;
 
-import com.example.goodoog.beans.BeanDefinition;
+
+import beans.BeanDefinition;
 
 /**
  * 注册表对象

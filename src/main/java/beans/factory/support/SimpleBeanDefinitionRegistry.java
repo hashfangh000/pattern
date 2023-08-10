@@ -1,6 +1,8 @@
 package beans.factory.support;
 
-import com.example.goodoog.beans.BeanDefinition;
+
+
+import beans.BeanDefinition;
 
 import java.util.HashMap;
 import java.util.Map;

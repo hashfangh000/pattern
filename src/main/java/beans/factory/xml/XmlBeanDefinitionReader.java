@@ -1,11 +1,12 @@
 package beans.factory.xml;
 
-import com.example.goodoog.beans.BeanDefinition;
-import com.example.goodoog.beans.MutablePropertyValues;
-import com.example.goodoog.beans.PropertyValue;
-import com.example.goodoog.beans.factory.support.BeanDefinitionReader;
-import com.example.goodoog.beans.factory.support.BeanDefinitionRegistry;
-import com.example.goodoog.beans.factory.support.SimpleBeanDefinitionRegistry;
+import beans.BeanDefinition;
+import beans.MutablePropertyValues;
+import beans.PropertyValue;
+import beans.factory.support.BeanDefinitionReader;
+import beans.factory.support.BeanDefinitionRegistry;
+import beans.factory.support.SimpleBeanDefinitionRegistry;
+
 import org.dom4j.Document;
 import org.dom4j.Element;
 import org.dom4j.io.SAXReader;
